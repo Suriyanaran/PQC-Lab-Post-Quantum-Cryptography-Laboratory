@@ -207,7 +207,3 @@ For pilot or integration enquiries, contact: [suriyanarayananpalani@gmail.com]--
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-
-#   P Q C - L a b - P o s t - Q u a n t u m - C r y p t o g r a p h y - L a b o r a t o r y  
- 
